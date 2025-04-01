@@ -1,4 +1,4 @@
-# Hi, I'm Corede! 👋
+# Hi, I'm Corede!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -15,17 +15,12 @@
 
 I'm a 15-year-old developer from Bakhchisarai, specializing in Python, JavaScript, and modern frameworks. I love exploring new technologies and building projects that solve real-world problems.
 
-## Interests & Hobbies 🌟
+## Interests & Hobbies
 - Passionate about open-source development and contributing to community projects.
 - Enjoy learning new programming languages and frameworks.
 - Love playing video games and exploring new technologies.
 - Interested in cybersecurity and ethical hacking.
 
-## Projects 🚀
-- [Project 1](link) - Brief description
-- [Project 2](link) - Brief description
-
-## Connect with me 📫
+## Connect with me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](your_telegram_link)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](your_instagram_link)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:coreespace@gmail.com)
