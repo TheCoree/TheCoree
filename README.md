@@ -22,6 +22,8 @@
 
 I am a 16-year-old full-stack web developer from Bakhchisaray with experience in both front-end and back-end development. I create responsive and user-friendly interfaces as well as secure and scalable server-side applications, working with modern frameworks and best coding practices. Over the years, I have dedicated my time to learning, building, and refining projects that solve real-world problems. I am already close to a mid-level skill set and continue to improve by exploring new technologies, contributing to open-source projects, and deepening my understanding of clean code and efficient architecture. For me, programming is not just a technical skill but a way to bring ideas to life and make a meaningful impact.
 
+![Top Contributor](https://img.shields.io/github/contributors-anon/username/repo?label=Top%20Contributor)
+
 ## Interests & Hobbies
 - Passionate about open-source development and contributing to community projects.
 - Enjoy learning new programming languages and frameworks.
