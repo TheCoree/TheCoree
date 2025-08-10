@@ -23,7 +23,7 @@
 I am a 16-year-old full-stack web developer from Bakhchisaray with experience in both front-end and back-end development. I create responsive and user-friendly interfaces as well as secure and scalable server-side applications, working with modern frameworks and best coding practices. Over the years, I have dedicated my time to learning, building, and refining projects that solve real-world problems. I am already close to a mid-level skill set and continue to improve by exploring new technologies, contributing to open-source projects, and deepening my understanding of clean code and efficient architecture. For me, programming is not just a technical skill but a way to bring ideas to life and make a meaningful impact.
 
 ### Top Contributed Repo
-![Your GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=TheCoree&limit=5&hide_contributor_rank=false&theme=github_dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=TheCoree&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 
 ### Interests & Hobbies
