@@ -22,14 +22,16 @@
 
 I am a 16-year-old full-stack web developer from Bakhchisaray with experience in both front-end and back-end development. I create responsive and user-friendly interfaces as well as secure and scalable server-side applications, working with modern frameworks and best coding practices. Over the years, I have dedicated my time to learning, building, and refining projects that solve real-world problems. I am already close to a mid-level skill set and continue to improve by exploring new technologies, contributing to open-source projects, and deepening my understanding of clean code and efficient architecture. For me, programming is not just a technical skill but a way to bring ideas to life and make a meaningful impact.
 
-![Top Contributor](https://img.shields.io/github/contributors-anon/username/repo?label=Top%20Contributor)
+### Top Contributed Repo
+![Your GitHub Contribution Stats](https://github-contributor-stats.vercel.app/api?username=TheCoree&limit=5&hide_contributor_rank=false&theme=github_dark&combine_all_yearly_contributions=true)
 
-## Interests & Hobbies
+
+### Interests & Hobbies
 - Passionate about open-source development and contributing to community projects.
 - Enjoy learning new programming languages and frameworks.
 - Love playing video games and exploring new technologies.
 - Interested in cybersecurity and ethical hacking.
 
-## Connect with me
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](your_telegram_link)
+### Connect with me
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)]([your_telegram_link](https://t.me/coredeee))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coreespace@gmail.com)
